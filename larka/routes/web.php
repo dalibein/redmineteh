@@ -18,7 +18,7 @@ Route::get('/', function () {
 });
 
 
-Route::get('/1con', function () {
+Route::get('/1', function () {
     return view('1');
 });
 
