@@ -17,6 +17,7 @@ Route::get('/', function () {
     return view('welcome');
 });
 
+
 Route::get('/1con', function () {
     return view('1');
 });
@@ -28,4 +29,4 @@ Route::get('/2con', function () {
 Route::get('/3con', function () {
     return view('3');
 });
-
+?>
