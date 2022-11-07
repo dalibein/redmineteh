@@ -1,2 +1,0 @@
-# redmineteh
-heh
