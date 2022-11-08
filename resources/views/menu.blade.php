@@ -195,7 +195,6 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 <li class="nav-item"><a class="nav-link" href="/">Главная</a></li>
 <li class="nav-item"><a class="nav-link" href="welcome">О нас</a></li>
 <li class="nav-item"><a class="nav-link" href="contact">Контакты</a></li>
-<li class="nav-item"><a class="nav-link" href="login">Авторизироваться</a></li>
 <li class="nav-item">
 
 
@@ -222,10 +221,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
   </a>
 
   <ul class="dropdown-menu" aria-labelledby="dropdownMenuLink">
-    <li><a class="dropdown-item" href="velosipedi">Велосипеды</a></li>
     <li><a class="dropdown-item" href="employees">Работники </a></li>
-    <li><a class="dropdown-item" href="tovari">Товары</a></li>
-    <li><a class="dropdown-item" href="suppliers">Поставщики</a></li>
   </ul>
 </div>
 

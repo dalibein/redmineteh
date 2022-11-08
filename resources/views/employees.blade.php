@@ -37,7 +37,7 @@
         <td>{{$el->salary}}</td>
         <td>{{$el->phone}}</td>
         <td>{{$el->email}}</td>
-        <td>{{$el->adress}}</td>
+        <td>{{$el->address}}</td>
         @auth
         @if(Auth::user()->isAdmin())
         <td><a href = 'delete/{{$el->id}}' class="animated-button">Удалить</a></td>

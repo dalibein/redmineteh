@@ -169,9 +169,7 @@
                         {{ __('О нас') }}
                     </x-nav-link>
                 
-                    <x-nav-link :href="route('register')" :active="request()->routeIs('register')">
-                        {{ __('Авторизация') }}
-                    </x-nav-link>
+                    
                   
                 
                    
@@ -201,24 +199,6 @@
                       
 
 
-                            <x-dropdown-link :href="route('suppliers')" :active="request()->routeIs('suppliers')">
-                                  
-                                {{ __('Поставщики') }}
-                                
-                            </x-dropdown-link>
-                           
-
-                            <x-dropdown-link :href="route('tovari')" :active="request()->routeIs('tovari')">
-                                  
-                                {{ __('Товары') }}
-                                
-                            </x-dropdown-link>
-
-                            <x-dropdown-link :href="route('velosipedi')" :active="request()->routeIs('velosipedi')">
-                                  
-                                {{ __('Велосипеды') }}
-                                
-                            </x-dropdown-link>
 
                             <x-dropdown-link :href="route('employees')" :active="request()->routeIs('employees')">
                                   

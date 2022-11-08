@@ -28,7 +28,7 @@
     <tr>
         <td>{{$el->id}}</td>
         <td>{{$el->name}}</td>
-        <td>{{$el->adress}}</td>
+        <td>{{$el->address}}</td>
         <td>{{$el->phone}}</td>
         <td>{{$el->marka}}</td>
         <td>{{$el->count}}</td>
