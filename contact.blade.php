@@ -1,18 +1,13 @@
-@extends('menu')
-@section('shap')
-Контакты
-@endsection
+<x-app-layout>
 
-@section('ocnov')
-<div class=" jumbotron text-center " style="background-color:greenyellow">
-    <h1 class="display-4">Блокнотозавр</h1>
-    <p class="lead">Интернет магазин блокнотов</p>
-</div>
 <div class="site-contact">
-    <h1>Контакты3</h1>
+    <h1>Контакты</h1>
 
     <div class='col-lg-20'>
-        <p>
+        <h3>
+           <b> Адрес: ул. Копатыча 10</b><br>
+</h3>
+        <h3>
         Антонов Иван Евгеньевич: 7(950)387-30-24 <br>
 Соловьев Егор Константинович: 7(950)138-34-55<br>
 Терехова Александра Александровна: 7(950)859-55-58<br>
@@ -23,6 +18,6 @@
 Мещеряков Даниэль Петрович: 7(950)548-85-75<br>
 Макеева Алиса Ильинична: 7(950)454-30-35<br>
 Козлова Марианна Давидовна: 7(950)090-39-35
-        </p>
+</h3>
     </div>
-@endsection
+</x-app-layout>
