@@ -6,7 +6,7 @@
 @section('ocnov')
 <div class=" jumbotron text-center " style="background-color:greenyellow">
     <h1 class="display-4">Блокнотозавр</h1>
-    <p class="lead">Интернет магазин блокнотов</p>
+    <p class="lead">Интернет магазин олегов</p>
 </div>
 <div class="site-contact">
     <h1>Контакты1</h1>
