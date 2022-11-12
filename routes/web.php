@@ -21,11 +21,14 @@ use App\Http\Controllers\suppliersController;
 Route::get('/', function () {
     return view('welcome');
 });
-Route::get('/contact', function () {
-    return view('contact');
+Route::get('/1', function () {
+    return view('1');
 });
-Route::get('/welcome', function () {
-    return view('welcome');
+Route::get('/2', function () {
+    return view('2');
+});
+Route::get('/3', function () {
+    return view('3');
 });
 
 
