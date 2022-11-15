@@ -25,7 +25,6 @@
 <li class="nav-item"><a class="nav-link" href="3">3стр</a></li>
 <li class="nav-item"><a class="nav-link" href="4">4стр</a></li>
 <li class="nav-item"><a class="nav-link" href="5">5стр</a></li>
-<li class="nav-item"><a class="nav-link" href="6">6стр</a></li>
 </ul></div>
 </div>
 </nav>

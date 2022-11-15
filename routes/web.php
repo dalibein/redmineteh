@@ -30,6 +30,15 @@ Route::get('/2', function () {
 Route::get('/3', function () {
     return view('3');
 });
+Route::get('/4', function () {
+    return view('4');
+});
+Route::get('/5', function () {
+    return view('5');
+});
+Route::get('/6', function () {
+    return view('6');
+});
 
 
 
