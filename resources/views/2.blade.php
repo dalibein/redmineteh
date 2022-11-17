@@ -5,7 +5,7 @@
 <div class="wrapper">
 
 	<header>
-		<h1>3 колонки</h1>
+		<h1>3 колонки Изменено</h1>
 	</header>
 		
 <section class="columns">
